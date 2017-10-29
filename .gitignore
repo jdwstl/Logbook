@@ -1,3 +1,4 @@
-# tbd
 # This logbook may not need to ignore any files.
+# Ignore MacOS generated files
+.DS_Store
 
